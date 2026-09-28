@@ -1,5 +1,5 @@
 # NeuroPredict: Does Adding Heart Signals to Brain Signals Help Predict Mental Effort?
-
+SEE ANIMATION HERE:https://himanshu-heist.github.io/NeuropredictAnimation/
 An honest, externally tested study of **EEG + ECG fusion** for classifying **rest vs mental task**.
 Trained on one public dataset, then tested on a completely different one (different people, lab, task and EEG reference).
 
